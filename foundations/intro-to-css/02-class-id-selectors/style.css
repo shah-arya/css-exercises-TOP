@@ -1,0 +1,18 @@
+.oddno{
+    background-color: pink;
+    font-family:'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#id_font{
+    color: blue;
+    font-size: 36px;
+}
+
+.adjustfontsize{
+    font-size: 24px;
+}
+
+#id_color{
+    background-color: lightgreen;
+    font-weight: bold;
+}
